@@ -32,7 +32,9 @@ The outcome of this is for both the potential applicant and the potential hirer 
 _Requirements:_
 
 - a Linux/OSX environment
+    - running windows? Spin up a virtual machine with VirtualBox. CentOS or Ubuntu are easy enough and will get the job done.
 - a Google account
+    - already used up your $300 credit? Hate to ask this, but make a trash Google account just for this.
 
 _Description:_ Acquire a Google account. [Google Cloud](cloud.google.com) has a free trial where they provide you with $300 in credits for a year. Use these credits to:
 
@@ -55,6 +57,7 @@ _Bonus points:_
 - use `terraform` for defining GCP infrastructure
 - use CI/CD to deploy the application to Kubernetes (e.g. Travis CI)
 - force HTTPS redirection with Nginx (using a 301 redirect)
+- use a simple chat medium to communicate: e.g. IRC, Slack
 
 ## Notes
 
