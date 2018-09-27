@@ -7,8 +7,10 @@ This is a set of assignments for gauging learning and operational skills of a po
 - [Strategy](#strategy)
 - [Purpose](#purpose)
 - [Assignments](#assignments)
-    * [Part one](#part-one)
+    * [Part one: make a thing](#part-one-make-a-thing)
+    * [Part two: make a thing repeatable](#part-two-make-a-thing-repeatable)
 - [Notes](#notes)
+    * [Communication](#communication)
     * [Excellent Code](#excellent-code)
 
 <!-- tocstop -->
@@ -24,10 +26,11 @@ The outcome of this is for both the potential applicant and the potential hirer 
 - quick adaptation to environments, new tooling, new technologies
 - ability to clearly analyze things when something went wrong: post-mortem
 - ability to [write excellent code](#excellent-code)
+- ability to ask questions when needed, and in time (before too much time has passed trying to figure something out)
 
 ## Assignments
 
-### Part one
+### Part one: make a thing
 
 #### Requirements
 
@@ -50,16 +53,48 @@ Acquire a Google account. [Google Cloud](cloud.google.com) has a free trial wher
 
 The webpage can be displayed over the internet: there is a load-balancer endpoint I can see the page on.
 
+#### Artifact to be provided
+
+- Load Balancer's publicly accessible URL
+- Kubernetes Deployment, Service, Ingress YAMLs
+- Nginx configuration
+
 #### Bonus points
 
-- use `git` to
-    - store your code
-    - store and show iterative progress via commits
-- sign your git commits with GPG
-- use `terraform` for defining GCP infrastructure
-- use CI/CD to deploy the application to Kubernetes (e.g. Travis CI)
 - force HTTPS redirection with Nginx (using a 301 redirect)
-- use a simple chat medium to communicate: e.g. IRC, Slack
+
+### Part two: make a thing repeatable
+
+#### Requirements
+
+- GitHub/GitLab account
+- Part One completed
+
+#### Description
+
+Now that you have a functional project, you can start on making it _repeatable_. All that means is that everything must be defined in code, limiting human interaction with any system.
+
+- Google Cloud infrastructure can be defined in [Terraform](https://www.terraform.io/) code
+- Kubernetes deployments are to be defined in YAML format
+- Continuous Integration/Continuous Delivery (CI/CD) can be defined in YAML and
+    - run by Travis CI, triggered by commits to GitHub
+    - run by GitLab built-in CI/CD
+    - any other service of your choice
+
+#### Success criteria
+
+- all code is stored in a `git` repository
+    - show iterative progress via commits
+- all infrastructure in GCP is defined with `terraform`
+- CI/CD is used to continuously deploy changes to the code
+
+#### Artifact to be provided
+
+Link to the git repository, demonstration of code flow and CI/CD
+
+#### Bonus points
+
+- sign your git commits with GPG
 
 ## Notes
 
@@ -68,6 +103,13 @@ No resource is off-limits, that includes the potential hirer who sent you this. 
 A strategy everyone is fond of is talking an object through your problem (this has classically been a poor rubber duck). Walk it through the entire problem, beginning to end: usually, one stumbles into whatever they've missed.
 
 My personal strategy has been to imagine how I will explain the problem when it comes time to ask questions to my coworkers. This is a combination of both of the above.
+
+### Communication
+
+It would be preferred to communicate over something other than text: use a simple chat medium to communicate: e.g. IRC, Slack are preferred, but anything works that can
+
+- perform code formatting and
+- run on a computer
 
 ### Excellent Code
 
