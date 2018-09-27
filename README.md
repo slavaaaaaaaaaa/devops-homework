@@ -29,14 +29,16 @@ The outcome of this is for both the potential applicant and the potential hirer 
 
 ### Part one
 
-_Requirements:_
+#### Requirements
 
 - a Linux/OSX environment
     - running windows? Spin up a virtual machine with VirtualBox. CentOS or Ubuntu are easy enough and will get the job done.
 - a Google account
     - already used up your $300 credit? Hate to ask this, but make a trash Google account just for this.
 
-_Description:_ Acquire a Google account. [Google Cloud](cloud.google.com) has a free trial where they provide you with $300 in credits for a year. Use these credits to:
+#### Description
+
+Acquire a Google account. [Google Cloud](cloud.google.com) has a free trial where they provide you with $300 in credits for a year. Use these credits to:
 
 - spin up a Kubernetes cluster in GKE with two-three nodes
 - write a Kubernetes deployment definition in YAML that includes:
@@ -44,11 +46,11 @@ _Description:_ Acquire a Google account. [Google Cloud](cloud.google.com) has a 
 - write a Kubernetes service definition in YAML that exposes the deployment with a Load Balancer
 - write a Kubernetes ingress definition to allow the service to be reached from the world
 
-_Success criteria:_
+#### Success criteria
 
 The webpage can be displayed over the internet: there is a load-balancer endpoint I can see the page on.
 
-_Bonus points:_
+#### Bonus points
 
 - use `git` to
     - store your code
