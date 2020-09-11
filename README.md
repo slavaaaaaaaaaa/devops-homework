@@ -1,6 +1,6 @@
 # SRE Homework
 
-This is a set of assignments for gauging learning and operational skills of a potential Jr. Site Reliability Engineer or DevOps candidate. Questions are expected to be asked, no resource is off-limits.
+This is a set of assignments for gauging learning and operational skills of a potential Jr. Site Reliability Engineer or DevOps candidate. Questions are expected to be asked, no resource is off-limits - except, hopefully, other folks. Please put in your best effort to do the work yourself.
 
 <!-- toc -->
 
@@ -98,7 +98,7 @@ Link to the git repository, demonstration of code flow and CI/CD
 
 ## Notes
 
-No resource is off-limits, that includes the potential hirer who sent you this. Asking questions is a _must_, some even set a timer for figuring something out, e.g.: "If I can't figure this problem out within thirty minutes, I must ask someone how to do this."
+No resource is off-limits, that includes the potential hirer who sent you this. Asking questions is a _must_, some even set a timer for figuring something out, e.g.: "If I can't figure this problem out within thirty minutes, I must ask someone how to do this." The only limitation we ask for is to avoid asking others to do the work for you.
 
 A strategy everyone is fond of is talking an object through your problem (this has classically been a poor rubber duck). Walk it through the entire problem, beginning to end: usually, one stumbles into whatever they've missed.
 
