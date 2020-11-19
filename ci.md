@@ -1,4 +1,4 @@
-# Part two: make a thing repeatable
+# Homework 2: Continuous Integration/Continuous Delivery
 
 In this assignment we focus on DevOps best practices, such as version control and deployment automation.
 
@@ -7,7 +7,7 @@ In this assignment we focus on DevOps best practices, such as version control an
 - [Requirements](#requirements)
 - [Description](#description)
 - [Success criteria](#success-criteria)
-- [Artifact to be provided](#artifact-to-be-provided)
+- [Artifacts to be provided](#artifacts-to-be-provided)
 - [Bonus points](#bonus-points)
 
 <!-- tocstop -->
@@ -26,7 +26,7 @@ Now that you have a functional project, you can start automating deployments. Co
 1. All code is stored in a `git` repository. Show [iterative progress](https://chris.beams.io/posts/git-commit/)
 1. CI/CD is used to continuously deploy changes to the code
 
-## Artifact to be provided
+## Artifacts to be provided
 
 Link to the git repository, demonstration of code flow and CI/CD.
 

@@ -7,7 +7,7 @@ In this assignment we focus on exploring Google's managed Kubernetes offering.
 - [Requirements](#requirements)
 - [Description](#description)
 - [Success criteria](#success-criteria)
-- [Artifact to be provided](#artifact-to-be-provided)
+- [Artifacts to be provided](#artifacts-to-be-provided)
 - [Bonus points](#bonus-points)
 
 <!-- tocstop -->
@@ -33,7 +33,7 @@ Acquire a Google account. [Google Cloud](cloud.google.com) has a free trial wher
 
 The webpage can be displayed over the internet: there is an endpoint I can see the page on.
 
-## Artifact to be provided
+## Artifacts to be provided
 
 1. Resulting publicly accessible URL
 1. Kubernetes Deployment, Service, Ingress YAMLs
