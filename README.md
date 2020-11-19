@@ -4,11 +4,9 @@ This is a set of assignments for gauging learning and operational skills of a po
 
 <!-- toc -->
 
-- [Strategy](#strategy)
+- [Expectations](#expectations)
 - [Purpose](#purpose)
 - [Assignments](#assignments)
-    * [Part one: make a thing](#part-one-make-a-thing)
-    * [Part two: make a thing repeatable](#part-two-make-a-thing-repeatable)
 - [Notes](#notes)
     * [Communication](#communication)
     * [Excellent Code](#excellent-code)

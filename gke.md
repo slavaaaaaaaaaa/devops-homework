@@ -4,6 +4,14 @@ In this assignment we focus on exploring Google's managed Kubernetes offering.
 
 <!-- toc -->
 
+- [Requirements](#requirements)
+- [Description](#description)
+- [Success criteria](#success-criteria)
+- [Artifact to be provided](#artifact-to-be-provided)
+- [Bonus points](#bonus-points)
+
+<!-- tocstop -->
+
 ## Requirements
 
 - a Linux/OSX environment
