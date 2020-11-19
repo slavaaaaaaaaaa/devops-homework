@@ -4,18 +4,14 @@ This is a set of assignments for gauging learning and operational skills of a po
 
 <!-- toc -->
 
-- [Expectations](#expectations)
 - [Purpose](#purpose)
 - [Assignments](#assignments)
 - [Notes](#notes)
-    * [Communication](#communication)
-    * [Excellent Code](#excellent-code)
+- [Expectations](#expectations)
+- [Communication](#communication)
+- [Excellent Code](#excellent-code)
 
 <!-- tocstop -->
-
-## Expectations
-
-The assignment lengths and depths are planned to take two to three days of research and work, but something that would take minutes to put together in a work environment.
 
 ## Purpose
 
@@ -40,14 +36,18 @@ A strategy everyone is fond of is talking an object through your problem (this h
 
 My personal strategy has been to imagine how I will explain the problem when it comes time to ask questions to my coworkers. This is a combination of both of the above.
 
-### Communication
+## Expectations
+
+The assignment lengths and depths are planned to take two to three days of research and work, but something that would take minutes to put together in a work environment.
+
+## Communication
 
 It would be preferred to communicate over something other than SMS or email: use a simple chat medium to communicate such as IRC, Slack, Discord. The simple requirements for a friendly platform are ability to:
 
 - perform code formatting and
 - run on a computer
 
-### Excellent Code
+## Excellent Code
 
 I saw this in a manager's handbook once, and never again, so I must attempt to redefine what this means:
 

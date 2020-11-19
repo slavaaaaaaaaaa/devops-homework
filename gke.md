@@ -14,10 +14,9 @@ In this assignment we focus on exploring Google's managed Kubernetes offering.
 
 ## Requirements
 
-- a Linux/OSX environment
-    - running windows? Spin up a virtual machine with VirtualBox. CentOS or Ubuntu are easy enough and will get the job done.
-- a Google account
-    - already used up your $300 credit? Hate to ask this, but make a spare Google account just for this.
+1. A Linux/OSX environment
+    - Running windows? Spin up a virtual machine with VirtualBox. CentOS or Ubuntu are easy enough and will get the job done.
+1. A free [GCP](https://cloud.google.com/free) account
 
 ## Description
 

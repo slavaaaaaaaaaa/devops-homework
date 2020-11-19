@@ -15,6 +15,7 @@ In this assignment we focus on DevOps best practices, such as version control an
 ## Requirements
 
 1. GitHub or GitLab account
+1. A free [GCP](https://cloud.google.com/free) account
 1. [Part one](gke.md) completed
 
 ## Description
