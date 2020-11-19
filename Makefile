@@ -1,4 +1,4 @@
 .PHONY: toc
 
 toc:
-	markdown-toc --indent "    " --maxdepth 3 -i README.md
+	markdown-toc --prepend '' --indent "    " --maxdepth 3 -i README.md

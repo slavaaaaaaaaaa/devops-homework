@@ -1,4 +1,4 @@
-# SRE Homework
+# Google Kubernetes Engine Homework
 
 This is a set of assignments for gauging learning and operational skills of a potential Jr. Site Reliability Engineer or DevOps candidate. Questions are expected to be asked, no resource is off-limits - except, hopefully, other folks. Please put in your best effort to do the work yourself.
 
@@ -121,5 +121,3 @@ I saw this in a manager's handbook once, and never again, so I must attempt to r
 - self-documenting code:
     - comments are words to describe code. Aim for the code to be _self-descriptive_ instead of having to dumb it down for others!
     - that isn't to say that no comments or documentation are allowed: on the contrary, they must be present as a _guide_ rather than a tour guide.
-
-TODO: add what's missing here.
