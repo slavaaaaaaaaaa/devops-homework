@@ -26,11 +26,13 @@ Not all applications and use cases fit in Kubernetes well: often, a monolith app
     - SELinux, AppArmor or similar
     - Fail2Ban
     - External logging and monitoring
+1. It's not always easy or fast to test changes in a Cloud. Configure a [`Vagrantfile`](https://www.vagrantup.com/intro) to provision a local Virtual Machine or Docker image with your configuration management code.
 
 ## Success criteria
 
 1. Web server is accessible from public Internet
 1. Web server can be configured from scratch entirely using the manifests provided
+1. Web server changes can be tested locally using Vagrant
 
 ## Artifacts to be provided
 
