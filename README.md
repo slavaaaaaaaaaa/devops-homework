@@ -24,10 +24,10 @@ The outcome of this is for both the potential applicant and the potential hirer 
 
 ## Assignments
 
-1. [Part 1: Google Kubernetes Engine](gke.md)
-1. [Part 2: Continuous Integration, Continous Delivery](ci.md)
-1. [Part 3: Configuration Management](cm.md)
-1. [Part 4: Infrastructure as Code](iac.md)
+1. [Google Kubernetes Engine](gke.md)
+1. [Continuous Integration, Continous Delivery](ci.md)
+1. [Configuration Management](cm.md)
+1. [Infrastructure as Code](iac.md)
 
 ## Notes
 
