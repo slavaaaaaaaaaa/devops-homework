@@ -53,9 +53,9 @@ It would be preferred to communicate over something other than SMS or email: use
 
 I saw this in a manager's handbook once, and never again, so I must attempt to redefine what this means:
 
-1. Use an appropriate language for the given task:
+1. Use an appropriate programming language for the given task:
     - The largest tasks should be planned, designed and thought out before any code is written
-    - Medium-sized tasks call for a programming language
+    - Medium-sized tasks call for a programming language rather than a scripting one
     - Simplest tasks call for scripting and interpreted languages
 1. Write self-documenting code:
     - Comments are words to describe code. Aim for the code to be _self-descriptive_ instead of having to dumb it down for others: describe the _why_ of your code, not the _what_. That isn't to say that no comments or documentation are allowed: on the contrary, they must be present as a _guide_ rather than a tour.
