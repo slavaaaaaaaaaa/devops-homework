@@ -43,5 +43,5 @@ The webpage can be displayed over the internet: there is an endpoint I can see t
 1. Force HTTPS redirection with Nginx (using HTTP 301)
 1. Configure DNS to the endpoint
 1. Ensure certificate validity for the endpoint
-1. Define all infrastructure using IaC - Infrastructure as Code, such as [Terraform](terraform.md) or Deployment Manager
+1. Define all infrastructure using IaC - [Infrastructure as Code](iac.md), such as Terraform or Deployment Manager
 1. Define all Kubernetes objects using a templating engine of choice (e.g., Helm or Kustomize)
