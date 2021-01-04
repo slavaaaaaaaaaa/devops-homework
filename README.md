@@ -28,6 +28,7 @@ The outcome of this is for both the potential applicant and the potential hirer 
 1. [Continuous Integration, Continous Delivery](ci.md)
 1. [Configuration Management](cm.md)
 1. [Infrastructure as Code](iac.md)
+1. [Cloud][cloud.md]
 
 ## Notes
 
