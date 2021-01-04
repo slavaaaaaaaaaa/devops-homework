@@ -1,4 +1,4 @@
-# Homework 3: Configuration Management
+# Homework Part 3: Configuration Management
 
 In this assignment we'll focus on Configuration Management tooling using best practices in the field.
 
@@ -42,6 +42,5 @@ Not all applications and use cases fit in Kubernetes well: often, a monolith app
 
 ## Bonus points
 
-1. All the code is in `git` with appropriate commit messages
 1. [Automation](ci.md) for the instance configuration on code changes
 1. Configure [`packer`](https://www.packer.io/) to create a base preconfigured image that will work as soon as it's booted on an instance

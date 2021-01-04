@@ -24,9 +24,10 @@ The outcome of this is for both the potential applicant and the potential hirer 
 
 ## Assignments
 
-1. [Part one: Google Kubernetes Engine](gke.md)
-1. [Part two: build and deployment automation](ci.md)
-1. [Part three: Configuration Management](cm.md)
+1. [Part 1: Google Kubernetes Engine](gke.md)
+1. [Part 2: Continuous Integration, Continous Delivery](ci.md)
+1. [Part 3: Configuration Management](cm.md)
+1. [Part 4: Terraform](terraform.md)
 
 ## Notes
 
@@ -51,8 +52,13 @@ It would be preferred to communicate over something other than SMS or email: use
 
 I saw this in a manager's handbook once, and never again, so I must attempt to redefine what this means:
 
-1. Use of appropriate language for the given task:
-    - If one is programming, a programming language is needed
-    - If one has to get a simple set of tasks done, simple self-descriptive scripts are a fit!
-1. Self-documenting code:
-    - Comments are words to describe code. Aim for the code to be _self-descriptive_ instead of having to dumb it down for others! That isn't to say that no comments or documentation are allowed: on the contrary, they must be present as a _guide_ rather than a tour guide.
+1. Use an appropriate language for the given task:
+    - The largest tasks should be planned, designed and thought out before any code is written
+    - Medium-sized tasks call for a programming language
+    - Simplest tasks call for scripting and interpreted languages
+1. Write self-documenting code:
+    - Comments are words to describe code. Aim for the code to be _self-descriptive_ instead of having to dumb it down for others: describe the _why_ of your code, not the _what_. That isn't to say that no comments or documentation are allowed: on the contrary, they must be present as a _guide_ rather than a tour.
+1. Use code versioning:
+    - All code should be stored in a `git` repository or similar
+    - Show [iterative progress](https://chris.beams.io/posts/git-commit/)
+    - Sign your git commits with GPG or you can be [easily impersonated](https://github.com/smaslennikov/faking-gabriel-fok)

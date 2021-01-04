@@ -1,4 +1,4 @@
-# Homework 2: Continuous Integration/Continuous Delivery
+# Homework Part 2: Continuous Integration/Continuous Delivery
 
 In this assignment we focus on DevOps best practices, such as version control and deployment automation.
 
@@ -16,15 +16,17 @@ In this assignment we focus on DevOps best practices, such as version control an
 
 1. GitHub or GitLab account
 1. A free [GCP](https://cloud.google.com/free) account
-1. [Part one](gke.md) completed
 
 ## Description
 
-Now that you have a functional project, you can start automating deployments. Configure Continuous Integration/Continuous Delivery (CI/CD) using a tool of your preference (e.g., Github Actions, Gitlab CI, CircleCI, TravisCI).
+Create a simple Google App Engine deployment - Hello World or similar. Configure Continuous Integration/Continuous Delivery (CI/CD) using a tool of your preference (e.g., Github Actions, Gitlab CI, CircleCI, TravisCI, Jenkins) to perform the following:
+
+1. Update the Google App Engine deployment in your GCP account
+1. Test the deployment using `curl` or similar
 
 ## Success criteria
 
-1. All code is stored in a `git` repository. Show [iterative progress](https://chris.beams.io/posts/git-commit/)
+1. A Google App Engine deployment is publicly available
 1. CI/CD is used to continuously deploy changes to the code
 
 ## Artifacts to be provided
@@ -33,4 +35,6 @@ Link to the git repository, demonstration of code flow and CI/CD.
 
 ## Bonus points
 
-1. Sign your git commits with GPG
+1. Create a staging deployment
+1. Define a local development environment
+1. Define unit tests and other testing suites in CI
