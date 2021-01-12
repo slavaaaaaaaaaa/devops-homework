@@ -16,7 +16,8 @@ Assignment artifact is functional and complete |
 Metric | Grade
 -|-
 Code is in a version control system |
-Readable, with consistent formatting |
+Code is readable and neat
+Formatting is consistent and appropriate to the language used |
 Commit history is complete, easy to follow |
 Comments describe complex parts (if any) but aren't overused |
 
