@@ -6,26 +6,25 @@ To make these take-home assignments as fair as possible, this is the rubric to b
 
 Metric | Grade
 -|-
-All steps were followed |
 All artifacts were provided |
 Documentation for the result is provided |
-Assignment artifact is functional and complete |
+Artifacts are functional and complete |
 
 ## Code quality
 
 Metric | Grade
 -|-
 Code is in a version control system |
-Code is readable and neat
-Formatting is consistent and appropriate to the language used |
+Code is readable and neat |
+Formatting is consistent and appropriate to the programming language used |
 Commit history is complete, easy to follow |
-Comments describe complex parts (if any) but aren't overused |
+Comments are appropriately used to describe complex code |
 
 ## Communication and professionalism
 
 Metric | Grade
 -|-
-Questions were asked in a timely manner |
+Questions, if any, were asked in a timely manner |
 Communication was polite and professional |
 Documentation for the artifact is complete |
 Documentation is well-written and professional |
