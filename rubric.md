@@ -6,4 +6,4 @@ To make these take-home assignments as fair as possible, this is the rubric to b
 
 Metric | 1 | 2 | 3 | 4 | 5
 -|-|-|-|-|-
-Code is in a version control system | [ ] | [ ] | [ ] | [ ] | <input type="checkbox" enabled unchecked />
+Code is in a version control system | <ul><li>- []</li></ul> | <ul><li>- []</li></ul> |<ul><li>- []</li></ul> | <ul><li>- []</li></ul> | <ul><li>- []</li></ul>
