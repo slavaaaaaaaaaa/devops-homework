@@ -35,7 +35,7 @@ The webpage can be displayed over the internet: there is an endpoint I can see t
 ## Artifacts to be provided
 
 1. Resulting publicly accessible URL
-1. Kubernetes Deployment, Service, Ingress YAMLs
+1. Kubernetes Deployment, Service, Ingress YAMLs that can be used to deploy this service by the grader
 1. `nginx` configuration
 
 ## Bonus points

@@ -35,3 +35,6 @@ Metric | Grade
 -|-
 Git commits are signed |
 Individual assignment bonus tasks were completed (one score point for each task completed) |
+Extra points (leave notes)[^1] |
+
+[^1]: Anything exceptional about the submission: an error found in the assignment, a suggestion for rewording. Anything that stands out to show the candidate goes an extra mile.
