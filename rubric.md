@@ -35,6 +35,6 @@ Metric | Grade
 -|-
 Git commits are signed |
 Individual assignment bonus tasks were completed (one score point for each task completed) |
-Extra points (leave notes)[^1] |
+Extra points (leave notes)<sup>[1](#footnote1)</sup> |
 
-[^1]: Anything exceptional about the submission: an error found in the assignment, a suggestion for rewording. Anything that stands out to show the candidate goes an extra mile.
+<a name="footnote1">[1]</a>: Anything exceptional about the submission: an error found in the assignment, a suggestion for rewording. Anything that stands out to show the candidate goes an extra mile.
