@@ -19,7 +19,7 @@ In this assignment we focus on defining immutable infrastructure in code.
 
 ## Description
 
-Define or import the following infrastructure in Terraform, Deployment Manager or similar tool:
+Define or import the following infrastructure in Terraform or similar tool based on your preference:
 
 1. Project
 1. Enabling project APIs such as Compute, Network, DNS

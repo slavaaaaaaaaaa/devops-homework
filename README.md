@@ -9,7 +9,6 @@ This is a set of assignments for gauging learning and operational skills of a po
 - [Notes](#notes)
 - [Expectations](#expectations)
 - [Communication](#communication)
-- [Excellent Code](#excellent-code)
 
 <!-- tocstop -->
 
@@ -19,7 +18,7 @@ The outcome of this is for both the potential applicant and the potential hirer 
 
 - quick adaptation to environments, new tooling, new technologies
 - ability to clearly analyze things when something went wrong: post-mortem
-- ability to [write excellent code](#excellent-code)
+- ability to [write excellent code](https://slava.lol/posts/excellent-code/)
 - ability to ask questions when needed, and in time (before too much time has passed trying to figure something out)
 
 ## Assignments
@@ -48,18 +47,3 @@ It would be preferred to communicate over something other than SMS or email: use
 
 - perform code formatting and
 - run on a computer
-
-## Excellent Code
-
-I saw this in a manager's handbook once, and never again, so I must attempt to redefine what this means:
-
-1. Use an appropriate programming language for the given task:
-    - The largest tasks should be planned, designed and thought out before any code is written
-    - Medium-sized tasks call for a programming language rather than a scripting one
-    - Simplest tasks call for scripting and interpreted languages
-1. Write self-documenting code:
-    - Comments are words to describe code. Aim for the code to be _self-descriptive_ instead of having to dumb it down for others: describe the _why_ of your code, not the _what_. That isn't to say that no comments or documentation are allowed: on the contrary, they must be present as a _guide_ rather than a tour.
-1. Use code versioning:
-    - All code should be stored in a `git` repository or similar
-    - Show [iterative progress](https://chris.beams.io/posts/git-commit/)
-    - Sign your git commits with GPG or you can be [easily impersonated](https://github.com/smaslennikov/faking-gabriel-fok)
